@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 iOSer
+- 🌱 测开、效能
+
+### Github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huang1988519&show_icons=true&theme=radical)
+
+<img src="https://raw.githubusercontent.com/cn0xroot/cn0xroot/master/c.svg" width="100%" height="100%"></a>
+
 <!--
 **huang1988519/huang1988519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
